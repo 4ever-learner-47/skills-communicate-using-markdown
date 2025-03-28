@@ -5,3 +5,5 @@
 ### So that's it
 
 #### I typed something and it shows something in preview
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
